@@ -3,6 +3,8 @@ layout: article
 title: Ubuntu proxychains + shadowsocks 安装DropBox
 tags: Ubuntu
 mathjax: true
+show_title: false
+show_edit_on_github: false
 ---
 
 # Ubuntu proxychains + shadowsocks 安装 DropBox
