@@ -3,9 +3,9 @@ layout: article
 title: Ubuntu 16.04 安装H3C iNode客户端
 tags: Ubuntu
 mathjax: true
+show_title: true
+show_edit_on_github: false
 ---
-
-# Ubuntu 16.04 安装H3C iNode客户端
 
 安装包：[百度云](https://pan.baidu.com/s/1miJSfcW) 密码：fs1g
 
