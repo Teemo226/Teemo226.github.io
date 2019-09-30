@@ -20,9 +20,9 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Mine
+title   : Teemo226
 description: > # this means to ignore newlines until "Language & timezone"
-  Amazing
+  Teemo226 Website
 
 
 ## => Language and Timezone
@@ -147,9 +147,9 @@ pageview:
 
   ## Leancloud
   leancloud:
-    app_id    : "ROIG3sduKoEwR2N3wV9Q20tv-gzGzoHsz" # LeanCloud App id
-    app_key   : "bGBylKD50UomWjG9PfTitTgp" # LeanCloud App key
-    app_class : "kqgK1rMKq98IbbqMd6CthYD4" # LeanCloud App class
+    app_id    : "mkkknBcEfhE45LTCIuKuakf0-MdYXbMMI" # LeanCloud App id
+    app_key   : "C0Mpf1p9RJqTp5LRpyGbAopN" # LeanCloud App key
+    app_class : "teemo_blog" # LeanCloud App class
 
 
 ## => Analytics
